@@ -1,7 +1,7 @@
 {
-  name: devOpsNodejs,
-  version: 1.0.0,
-  scripts: {
-    test: node test.js
+  "name": "devOpsNodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js"
   }
 }
